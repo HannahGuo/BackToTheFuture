@@ -1,2 +1,2 @@
 # BackToTheFuture
-Notes to play Back to the Future (composed by Alan Silvestri) on a passive buzzer
+This was created using the pitches library in Arduino. It uses a passive buzzer to play the *Back to the Future* theme song, composed by Alan Silvestri, once. The notes used are for Bb Trumpet.  
